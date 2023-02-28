@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    
+}
+
+body {
+    background-color: darkslateblue;
+    color: aliceblue
+}
+
+img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+table,th,tr,td {
+    border: 1px solid black;
+    border-color: aliceblue
+    
+}
+
+a:link,a:visited,a:active,a:hover {
+    color: aliceblue;
+}
